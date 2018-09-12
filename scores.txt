@@ -1,0 +1,10 @@
+Josh 3 47
+John 2 47
+Ryan 2 47
+Jon 2 46
+Brad 2 45
+Brian 2 45
+Micah 1 46
+Aaron 1 44
+Colin 0 43
+Matt 0 43
