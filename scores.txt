@@ -2,7 +2,7 @@ John 6 45
 Micah 6 45
 Ryan 6 45
 Brad 6 43
-Brian 4 43
+Brian 5 43
 Jon 4 42
 Josh 4 42
 Aaron 4 41
