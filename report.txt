@@ -12,7 +12,7 @@ Brad
  - Philadelphia: 2
 TOTAL: 6
 MAX: 43
-1st 2nd 3rd: 38% 27% 16%
+1st 2nd 3rd: 38% 26% 16%
 
 Brian
  - Jacksonville: 2
@@ -20,7 +20,7 @@ Brian
  - Tampa Bay: 2
 TOTAL: 5
 MAX: 43
-1st 2nd 3rd: 22% 21% 20%
+1st 2nd 3rd: 21% 21% 20%
 
 Colin
  - Detroit: 1
@@ -32,11 +32,11 @@ MAX: 39
 
 John
  - Baltimore: 2
- - L.A. Rams: 3
+ - L.A. Rams: 4
  - N.Y. Giants: 1
-TOTAL: 6
+TOTAL: 7
 MAX: 45
-1st 2nd 3rd: 7% 11% 15%
+1st 2nd 3rd: 9% 13% 17%
 
 Jon
  - Cincinnati: 2
@@ -51,8 +51,8 @@ Josh
  - N.Y. Jets: 1
  - Washington: 2
 TOTAL: 4
-MAX: 42
-1st 2nd 3rd: 1% 2% 5%
+MAX: 41
+1st 2nd 3rd: 1% 2% 3%
 
 Matt
  - Atlanta: 1
@@ -60,7 +60,7 @@ Matt
  - Oakland: 0
 TOTAL: 2
 MAX: 39
-1st 2nd 3rd: 1% 2% 4%
+1st 2nd 3rd: 0% 2% 3%
 
 Micah
  - Denver: 2
