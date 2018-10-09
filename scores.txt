@@ -1,10 +1,10 @@
 Ryan 10 44
 John 9 42
-Micah 8 42
+Micah 9 42
 Jon 8 40
 Brian 7 40
 Aaron 7 39
 Brad 7 38
-Josh 6 40
+Josh 6 39
 Colin 5 37
 Matt 5 37
