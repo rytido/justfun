@@ -3,8 +3,8 @@ Aaron
  - New England: 4
  - San Francisco: 1
 TOTAL: 8
-MAX: 38
-1st 2nd 3rd: 6% 9% 11%
+MAX: 37
+1st 2nd 3rd: 4% 7% 10%
 
 Brad
  - Dallas: 3
@@ -36,15 +36,15 @@ John
  - N.Y. Giants: 1
 TOTAL: 11
 MAX: 41
-1st 2nd 3rd: 23% 20% 16%
+1st 2nd 3rd: 23% 20% 17%
 
 Jon
  - Cincinnati: 4
- - Green Bay: 2
+ - Green Bay: 3
  - Seattle: 3
-TOTAL: 9
+TOTAL: 10
 MAX: 39
-1st 2nd 3rd: 5% 9% 11%
+1st 2nd 3rd: 7% 11% 13%
 
 Josh
  - Minnesota: 3
