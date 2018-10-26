@@ -3,8 +3,8 @@ John 12 39
 Josh 11 39
 Micah 11 39
 Jon 10 38
-Brad 10 35
+Colin 10 36
+Brad 10 34
 Brian 9 37
 Aaron 9 36
-Colin 9 36
 Matt 9 36
