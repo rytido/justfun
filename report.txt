@@ -4,7 +4,7 @@ Aaron
  - San Francisco: 2
 TOTAL: 18
 MAX: 32
-1st 2nd 3rd: 3% 17% 23%
+1st 2nd 3rd: 5% 15% 21%
 
 Brad
  - Dallas: 6
@@ -12,7 +12,7 @@ Brad
  - Philadelphia: 5
 TOTAL: 16
 MAX: 30
-1st 2nd 3rd: 1% 6% 11%
+1st 2nd 3rd: 1% 5% 9%
 
 Brian
  - Jacksonville: 3
@@ -24,11 +24,11 @@ MAX: 29
 
 Colin
  - Detroit: 4
- - Houston: 7
+ - Houston: 8
  - Indianapolis: 6
-TOTAL: 17
+TOTAL: 18
 MAX: 32
-1st 2nd 3rd: 3% 12% 17%
+1st 2nd 3rd: 6% 16% 20%
 
 John
  - Baltimore: 6
@@ -36,23 +36,23 @@ John
  - N.Y. Giants: 3
 TOTAL: 19
 MAX: 34
-1st 2nd 3rd: 9% 29% 26%
+1st 2nd 3rd: 13% 26% 24%
 
 Jon
  - Cincinnati: 5
  - Green Bay: 4
  - Seattle: 6
 TOTAL: 15
-MAX: 31
-1st 2nd 3rd: 0% 2% 6%
+MAX: 30
+1st 2nd 3rd: 0% 1% 3%
 
 Josh
- - Minnesota: 5
+ - Minnesota: 6
  - N.Y. Jets: 3
  - Washington: 6
-TOTAL: 14
+TOTAL: 15
 MAX: 30
-1st 2nd 3rd: 0% 0% 0%
+1st 2nd 3rd: 0% 0% 1%
 
 Matt
  - Atlanta: 4
@@ -67,8 +67,8 @@ Micah
  - New Orleans: 10
  - Tennessee: 5
 TOTAL: 20
-MAX: 36
-1st 2nd 3rd: 81% 13% 4%
+MAX: 35
+1st 2nd 3rd: 74% 16% 6%
 
 Ryan
  - Buffalo: 4
@@ -76,5 +76,5 @@ Ryan
  - Kansas City: 9
 TOTAL: 19
 MAX: 34
-1st 2nd 3rd: 19% 41% 21%
+1st 2nd 3rd: 24% 36% 21%
 
