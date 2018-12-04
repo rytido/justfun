@@ -2,9 +2,9 @@ John 22 34
 Micah 22 34
 Ryan 20 32
 Aaron 19 30
+Brad 19 30
 Colin 19 30
-Brad 18 30
-Brian 16 29
+Brian 16 28
 Jon 16 28
-Josh 15 28
-Matt 14 27
+Josh 15 27
+Matt 15 27
