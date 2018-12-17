@@ -1,52 +1,52 @@
 team1,team2,prob1,prob2,person1,person2
-L.A. Chargers,Kansas City,0.34,0.66,Matt,Ryan
-Houston,N.Y. Jets,0.64,0.36,Colin,Josh
-Cleveland,Denver,0.31,0.69,,Micah
-Arizona,Atlanta,0.27,0.73,,Matt
-Dallas,Indianapolis,0.53,0.47,Brad,Colin
-Detroit,Buffalo,0.51,0.49,Colin,Ryan
-Green Bay,Chicago,0.26,0.74,Jon,Aaron
-Miami,Minnesota,0.28,0.72,Brad,Josh
-Oakland,Cincinnati,0.34,0.66,Matt,Jon
-Tampa Bay,Baltimore,0.24,0.76,Brian,John
-Tennessee,N.Y. Giants,0.51,0.49,Micah,John
-Washington,Jacksonville,0.4,0.6,Josh,Brian
-Seattle,San Francisco,0.71,0.29,Jon,Aaron
-New England,Pittsburgh,0.49,0.51,Aaron,Brian
+L.A. Chargers,Kansas City,1.0,0.0,Matt,Ryan
+Houston,N.Y. Jets,1.0,0.0,Colin,Josh
+Cleveland,Denver,1.0,0.0,,Micah
+Arizona,Atlanta,0.0,1.0,,Matt
+Dallas,Indianapolis,0.0,1.0,Brad,Colin
+Detroit,Buffalo,0.0,1.0,Colin,Ryan
+Green Bay,Chicago,0.0,1.0,Jon,Aaron
+Miami,Minnesota,0.0,1.0,Brad,Josh
+Oakland,Cincinnati,0.0,1.0,Matt,Jon
+Tampa Bay,Baltimore,0.0,1.0,Brian,John
+Tennessee,N.Y. Giants,1.0,0.0,Micah,John
+Washington,Jacksonville,1.0,0.0,Josh,Brian
+Seattle,San Francisco,0.0,1.0,Jon,Aaron
+New England,Pittsburgh,0.0,1.0,Aaron,Brian
 Philadelphia,L.A. Rams,0.3,0.7,Brad,John
 New Orleans,Carolina,0.69,0.31,Micah,Ryan
-Washington,Tennessee,0.28,0.72,Josh,Micah
+Washington,Tennessee,0.27,0.73,Josh,Micah
 Baltimore,L.A. Chargers,0.34,0.66,John,Matt
-Atlanta,Carolina,0.35,0.65,Matt,Ryan
-Buffalo,New England,0.14,0.86,Ryan,Aaron
-Cincinnati,Cleveland,0.39,0.61,Jon,
-Green Bay,N.Y. Jets,0.56,0.44,Jon,Josh
-Houston,Philadelphia,0.36,0.64,Colin,Brad
+Atlanta,Carolina,0.37,0.63,Matt,Ryan
+Buffalo,New England,0.16,0.84,Ryan,Aaron
+Cincinnati,Cleveland,0.4,0.6,Jon,
+Green Bay,N.Y. Jets,0.57,0.43,Jon,Josh
+Houston,Philadelphia,0.38,0.62,Colin,Brad
 Jacksonville,Miami,0.39,0.61,Brian,Brad
-Minnesota,Detroit,0.51,0.49,Josh,Colin
-N.Y. Giants,Indianapolis,0.33,0.67,John,Colin
-Tampa Bay,Dallas,0.23,0.77,Brian,Brad
-Chicago,San Francisco,0.7,0.3,Aaron,Aaron
-L.A. Rams,Arizona,0.78,0.22,John,
-Pittsburgh,New Orleans,0.25,0.75,Brian,Micah
-Kansas City,Seattle,0.52,0.48,Ryan,Jon
-Denver,Oakland,0.6,0.4,Micah,Matt
-Atlanta,Tampa Bay,0.44,0.56,Matt,Brian
+Minnesota,Detroit,0.55,0.45,Josh,Colin
+N.Y. Giants,Indianapolis,0.26,0.74,John,Colin
+Tampa Bay,Dallas,0.25,0.75,Brian,Brad
+Chicago,San Francisco,0.68,0.32,Aaron,Aaron
+L.A. Rams,Arizona,0.8,0.2,John,
+Pittsburgh,New Orleans,0.27,0.73,Brian,Micah
+Kansas City,Seattle,0.54,0.46,Ryan,Jon
+Denver,Oakland,0.61,0.39,Micah,Matt
+Atlanta,Tampa Bay,0.48,0.52,Matt,Brian
 Carolina,New Orleans,0.17,0.83,Ryan,Micah
-Chicago,Minnesota,0.47,0.53,Aaron,Josh
+Chicago,Minnesota,0.46,0.54,Aaron,Josh
 Cincinnati,Pittsburgh,0.18,0.82,Jon,Brian
 Cleveland,Baltimore,0.21,0.79,,John
-Dallas,N.Y. Giants,0.61,0.39,Brad,John
+Dallas,N.Y. Giants,0.6,0.4,Brad,John
 Detroit,Green Bay,0.41,0.59,Colin,Jon
-Indianapolis,Tennessee,0.38,0.62,Colin,Micah
-Jacksonville,Houston,0.28,0.72,Brian,Colin
-Miami,Buffalo,0.48,0.52,Brad,Ryan
+Indianapolis,Tennessee,0.39,0.61,Colin,Micah
+Jacksonville,Houston,0.25,0.75,Brian,Colin
+Miami,Buffalo,0.44,0.56,Brad,Ryan
 N.Y. Jets,New England,0.12,0.88,Josh,Aaron
 Oakland,Kansas City,0.09,0.91,Matt,Ryan
-Philadelphia,Washington,0.61,0.39,Brad,Josh
-Arizona,Seattle,0.14,0.86,,Jon
-L.A. Chargers,Denver,0.62,0.38,Matt,Micah
-San Francisco,L.A. Rams,0.13,0.87,Aaron,John
+Philadelphia,Washington,0.58,0.42,Brad,Josh
+Arizona,Seattle,0.15,0.85,,Jon
+L.A. Chargers,Denver,0.64,0.36,Matt,Micah
+San Francisco,L.A. Rams,0.14,0.86,Aaron,John
 Jacksonville,Tennessee,0.0,1.0,Brian,Micah
 Atlanta,Green Bay,0.0,1.0,Matt,Jon
 Baltimore,Kansas City,0.0,1.0,John,Ryan
