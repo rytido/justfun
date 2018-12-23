@@ -1,80 +1,80 @@
 Aaron
  - Chicago: 10
- - New England: 9
+ - New England: 10
  - San Francisco: 4
-TOTAL: 23
+TOTAL: 24
 MAX: 28
-1st 2nd 3rd: 1% 18% 34%
+1st 2nd 3rd: 0% 18% 44%
 
 Brad
- - Dallas: 8
+ - Dallas: 9
  - Miami: 7
- - Philadelphia: 7
-TOTAL: 22
-MAX: 28
-1st 2nd 3rd: 4% 35% 28%
+ - Philadelphia: 8
+TOTAL: 24
+MAX: 27
+1st 2nd 3rd: 1% 31% 45%
 
 Brian
- - Jacksonville: 4
+ - Jacksonville: 5
  - Pittsburgh: 8
  - Tampa Bay: 5
-TOTAL: 17
-MAX: 23
+TOTAL: 18
+MAX: 22
 1st 2nd 3rd: 0% 0% 0%
 
 Colin
  - Detroit: 5
  - Houston: 10
- - Indianapolis: 8
-TOTAL: 23
-MAX: 29
-1st 2nd 3rd: 2% 18% 23%
+ - Indianapolis: 9
+TOTAL: 24
+MAX: 27
+1st 2nd 3rd: 0% 2% 15%
 
 John
- - Baltimore: 8
+ - Baltimore: 9
  - L.A. Rams: 11
  - N.Y. Giants: 5
-TOTAL: 24
-MAX: 30
-1st 2nd 3rd: 9% 56% 21%
+TOTAL: 25
+MAX: 29
+1st 2nd 3rd: 6% 78% 11%
 
 Jon
  - Cincinnati: 6
- - Green Bay: 5
+ - Green Bay: 6
  - Seattle: 8
-TOTAL: 19
-MAX: 25
-1st 2nd 3rd: 0% 0% 0%
-
-Josh
- - Minnesota: 7
- - N.Y. Jets: 4
- - Washington: 7
-TOTAL: 18
+TOTAL: 20
 MAX: 24
 1st 2nd 3rd: 0% 0% 0%
 
+Josh
+ - Minnesota: 8
+ - N.Y. Jets: 4
+ - Washington: 7
+TOTAL: 19
+MAX: 22
+1st 2nd 3rd: 0% 0% 0%
+
 Matt
- - Atlanta: 5
+ - Atlanta: 6
  - L.A. Chargers: 11
  - Oakland: 3
-TOTAL: 19
-MAX: 25
+TOTAL: 20
+MAX: 24
 1st 2nd 3rd: 0% 0% 0%
 
 Micah
  - Denver: 6
  - New Orleans: 12
- - Tennessee: 8
-TOTAL: 26
+ - Tennessee: 9
+TOTAL: 27
 MAX: 32
-1st 2nd 3rd: 96% 3% 0%
+1st 2nd 3rd: 99% 1% 0%
 
 Ryan
  - Buffalo: 5
  - Carolina: 6
  - Kansas City: 11
 TOTAL: 22
-MAX: 28
-1st 2nd 3rd: 0% 3% 9%
+MAX: 26
+1st 2nd 3rd: 0% 0% 1%
 
