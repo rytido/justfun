@@ -1,10 +1,10 @@
-Micah 27 32
-John 25 29
-Aaron 24 28
+Micah 28 32
+John 26 29
+Aaron 25 28
 Brad 24 27
 Colin 24 27
-Ryan 22 26
-Jon 20 24
+Ryan 22 25
+Jon 21 24
 Matt 20 24
 Josh 19 22
-Brian 18 22
+Brian 18 21
